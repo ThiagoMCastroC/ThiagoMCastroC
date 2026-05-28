@@ -1,13 +1,5 @@
 # Hi there, I'm Thiago 👋
 
-```cpp
-while(alive){
-    learn();
-    build();
-    optimize();
-}
-```
-
 🎓 Computer Science student at UFPA — currently in the 7th semester.
 🎮 Aspiring Game Developer focused on gameplay systems, performance and large-scale game projects.
 💻 Programming mainly with C#, C++, and Python.
@@ -18,7 +10,6 @@ while(alive){
 ## 🚀 About Me
 
 * 🔭 Currently working on personal game development projects
-* 🎯 Long-term goal: build and lead a AAA game studio
 * 🌱 Learning more about:
 
   * Game Architecture
@@ -28,7 +19,6 @@ while(alive){
   * Artificial Intelligence
 * 🕹️ Experience with Unity and gameplay programming
 * ⚡ Fluent in English, native Portuguese speaker and intermediate Spanish
-* 🧩 Strong interest in problem solving and optimization
 
 ---
 
